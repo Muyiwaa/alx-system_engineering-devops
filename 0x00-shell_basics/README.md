@@ -1,0 +1,1 @@
+this file contains the magic links on shell from the current directory to the magic testing
