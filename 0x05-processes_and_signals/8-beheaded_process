@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# program that kills a process automatically
+
+pkill -SIGKILL -f 7-highlander

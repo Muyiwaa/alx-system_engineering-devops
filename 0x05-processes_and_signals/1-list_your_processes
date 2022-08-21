@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# a scripts that prints process and in hierachy
+
+ps -faux
